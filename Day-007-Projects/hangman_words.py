@@ -1,0 +1,22 @@
+word_list = [
+    "apple", "banana", "orange", "grape", "mango",
+    "peach", "cherry", "lemon", "melon", "papaya",
+    "tiger", "lion", "zebra", "camel", "monkey",
+    "rabbit", "horse", "donkey", "panda", "koala",
+    "school", "college", "teacher", "student", "library",
+    "pencil", "eraser", "notebook", "backpack", "science",
+    "python", "java", "coding", "program", "computer",
+    "keyboard", "monitor", "internet", "website", "software",
+    "football", "cricket", "tennis", "hockey", "badminton",
+    "running", "jumping", "swimming", "cycling", "fitness",
+    "mountain", "river", "forest", "desert", "island",
+    "ocean", "valley", "waterfall", "volcano", "canyon",
+    "planet", "galaxy", "asteroid", "comet", "satellite",
+    "rocket", "spaceship", "astronaut", "gravity", "universe",
+    "friend", "family", "brother", "sister", "parent",
+    "garden", "flower", "sunshine", "rainbow", "thunder",
+    "diamond", "emerald", "crystal", "treasure", "adventure",
+    "mystery", "journey", "kingdom", "warrior", "dragon",
+    "castle", "pirate", "captain", "soldier", "victory",
+    "freedom", "success", "challenge", "dreamer", "genius"
+]
